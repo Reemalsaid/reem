@@ -1,1 +1,1 @@
-# reem
+Das Programm bestimmt eine zufällie Zahl zwischen 0 und 100,es bittet dann den spieler darum zu raten ,welsche die gesuchte Zahl  ist und sie über die tastatue einzugeben .Falls die Zahl nicht richtig geraten wurde,informiert das den Spieler,ob die gesuchte Zahl größeroder kleiner als die gesuchte Zahl ist.Falls die die Zahl endlich richtig geraten wurde,beglückwünscht das program den Spieler und beendet sich.
